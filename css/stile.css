@@ -20,7 +20,7 @@ a {
 }
 
 .img-centrale {
-    height: 40rem;
+    height: 33rem;
     background-image: url(../img/img/banner.jpg);
     background-size: cover;
     color: white;
@@ -33,6 +33,7 @@ a {
     width: 100%;
     box-sizing: border-box;
     background-color: rgba(0, 0, 0,0.2);
+    border-radius: 5px;
 }
 
 .float-box::after{
@@ -46,18 +47,19 @@ a {
     padding-left: 2rem;
 }
 
-.fo{
-    background-color: #8801fe;
-    height: 2rem;
-}
-
 .intestazione h1{
     margin: 0;
 }
 
 .intestazione h2 {
-    color:#969696;
     margin: 0;
+    margin-bottom: 1rem;
+    font-size: 15px;
+    color:#929292;
+}
+
+section p {
+    color:#929292;
 }
 
 .corpo { 
@@ -94,4 +96,10 @@ a {
     background-size: cover;
 }
 
+footer span {
+    color: red ;
+}
 
+footer {
+    text-align: center;
+}
