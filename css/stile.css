@@ -19,13 +19,17 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    font-size: 30px;
+    color: red;
+}
+
 .img-centrale {
     height: 33rem;
     background-image: url(../img/img/banner.jpg);
     background-size: cover;
     color: white;
     border-radius: 15px;
-
 }
 
 .copertura {
