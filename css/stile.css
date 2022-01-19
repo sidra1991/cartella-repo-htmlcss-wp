@@ -17,6 +17,12 @@
     background-size: cover;
     border-right: 1px solid #e5e5e5;
     padding-right: 1rem;
+} 
+
+a {
+    color: #939393;
+    margin: 0.2rem;
+    text-decoration: none;
 }
 
 .ma{
@@ -25,10 +31,7 @@
     margin-bottom: 0.2rem;
 }
 
-.di {
-    background-color: #e1d67a;
-    height: 11rem;
-}
+
 
 .fo{
     background-color: #8801fe;
