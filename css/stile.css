@@ -10,7 +10,6 @@
     margin-bottom: 0.5rem;
 }
 
-
 #logo {
     height: 3rem;
     width: 7rem;
@@ -23,6 +22,19 @@ a {
     color: #939393;
     margin: 0.2rem;
     text-decoration: none;
+}
+
+.img-centrale {
+    height: 40rem;
+    background-image: url(../img/img/banner.jpg);
+    background-size: cover;
+    color: white;
+    border-radius: 15px;
+}
+
+.img-centrale div {
+    padding-top: 22rem;
+    padding-left: 2rem;
 }
 
 .ma{
