@@ -4,17 +4,19 @@
     display: table;  
 }
 
-.pg {
+.generale {
     margin-left: 10%;
     width: 60rem;
-    background-color: aqua;
-    border: solid 1px black;
     margin-bottom: 0.5rem;
 }
 
-.he{
-    background-color: #e579e6;
+
+#logo {
     height: 3rem;
+    width: 7rem;
+    background-size: cover;
+    border-right: 1px solid #e5e5e5;
+    padding-right: 1rem;
 }
 
 .ma{
@@ -55,3 +57,4 @@
    margin-left:1%;
    margin-right:1%; 
 }
+
