@@ -30,6 +30,14 @@ a {
     background-size: cover;
     color: white;
     border-radius: 15px;
+
+}
+
+.copertura {
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0,0.2);
 }
 
 .img-centrale div {
@@ -50,11 +58,13 @@ a {
     height: 2rem;
 }
 
-.intestazione {
-    background-color: powderblue;
-    width: 100%;
-    height: 20%;
-    margin-bottom: 00.5rem;
+.intestazione h1{
+    margin: 0;
+}
+
+.intestazione h2 {
+    color:#969696;
+    margin: 0;
 }
 
 .corpo {
